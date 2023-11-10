@@ -1,8 +1,8 @@
 {
-    "ventas":[
-        {
-            "id": 5,
-            "nombre": "Sebastian"
-        }
-    ]
+    "id": 1,
+    "nombre": "Sebastian",
+    "precio": "20.00",
+    "fecha": "12/12/01",
+    "descripcion": "Un excelente servicio me gusta mucha"
 }
+    
